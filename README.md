@@ -9,8 +9,11 @@
 We create here an E-commerce in VueJS with:
 
   • Consuming API (Basic)
+  
   • Shopping Cart (Add and Remove item)
+  
   • LocalStorage (Save cart items)
+  
   • Responsive (Tablet Media Query)
 
 ### Web
