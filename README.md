@@ -7,10 +7,11 @@
 > E-commerce made in VueJs with product registration, inventory analysis and shopping cart
 
 We create here an E-commerce in VueJS with:
-• Consuming API (Basic)
-• Shopping Cart (Add and Remove item)
-• LocalStorage (Save cart items)
-• Responsive (Tablet Media Query)
+
+  • Consuming API (Basic)
+  • Shopping Cart (Add and Remove item)
+  • LocalStorage (Save cart items)
+  • Responsive (Tablet Media Query)
 
 ### Web
 
