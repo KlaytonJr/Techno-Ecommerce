@@ -2,8 +2,10 @@
 
 ## Techno
 
+🇧🇷
 > Um ecommerce feito em VueJs com registro de produtos, análise de estoque, carrinho de compras.
 
+🇺🇸
 > E-commerce made in VueJs with product registration, inventory analysis and shopping cart
 
 We create here an E-commerce in VueJS with:
